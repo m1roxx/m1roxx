@@ -1,4 +1,4 @@
-# Hi👋, I'm Ilyas Nugmanov
+# Hi 👋, I'm Ilyas Nugmanov
 
 # 💫 About Me:
 🌱 I’m currently learning Flutter and Swift
