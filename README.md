@@ -1,7 +1,7 @@
 # Hi 👋, I'm Ilyas Nugmanov
 
 # 💫 About Me:
-🌱 I’m currently learning Flutter and Swift
+🌱 I’m currently working as Flutter Developer
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aneru) 
