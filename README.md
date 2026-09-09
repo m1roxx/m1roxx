@@ -4,7 +4,7 @@
 
 I work beyond the UI: architecture, state and API contracts, payments and POS integrations, performance, testing, release workflows and production troubleshooting. My recent work spans iOS, Android, Flutter Web and Desktop in a restaurant ecosystem used by 100+ venues.
 
-[Portfolio](https://ilyas-nugmanov.vercel.app/en) · [Download CV](https://ilyas-nugmanov.vercel.app/Ilyas_Nugmanov_Flutter_Developer_CV.pdf) · [LinkedIn](https://www.linkedin.com/in/aneru/) · [Telegram](https://t.me/m1roxx)
+[Portfolio](https://ilyas-nugmanov.vercel.app/en) · [Download CV](./Ilyas_Nugmanov_Flutter_Developer_CV.pdf) · [LinkedIn](https://www.linkedin.com/in/aneru/) · [Telegram](https://t.me/m1roxx)
 
 ## Selected work
 
