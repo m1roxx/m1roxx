@@ -1,23 +1,46 @@
-# Hi 👋, I'm Ilyas Nugmanov
+# Ilyas Nugmanov
 
-# 💫 About Me:
-🌱 I’m currently working as Flutter Developer
+**Flutter Developer / Mobile Engineer** building production mobile, web, kiosk and white-label applications.
 
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Swift](https://img.shields.io/badge/swift-%23FA7343.svg?style=flat&logo=swift&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=flat&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=flat&logo=mongodb&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)  
+I work beyond the UI: architecture, state and API contracts, payments and POS integrations, performance, testing, release workflows and production troubleshooting. My recent work spans iOS, Android, Flutter Web and Desktop in a restaurant ecosystem used by 100+ venues.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--
-**m1roxx/m1roxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Portfolio](https://ilyas-nugmanov.vercel.app/en) · [Download CV](https://ilyas-nugmanov.vercel.app/Ilyas_Nugmanov_Flutter_Developer_CV.pdf) · [LinkedIn](https://www.linkedin.com/in/aneru/) · [Telegram](https://t.me/m1roxx)
 
-Here are some ideas to get you started:
+## Selected work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [AI Lillu — ordering ecosystem](https://ilyas-nugmanov.vercel.app/en#ailillu)
+
+- Own the architecture of a shared Flutter white-label ordering core and have developed the self-service kiosk since its first version.
+- Build across iOS/iPad, Android, Web and Desktop for an ecosystem used by 100+ restaurants.
+- Integrate iiko, Poster, Kaspi QR, JetPay, physical POS terminals and real-time WebSocket flows.
+- Carry features from architecture and tests through CI/CD, TestFlight, App Store and production support.
+
+### [os_intents](https://github.com/m1roxx/os_intents)
+
+Open-source Dart tooling that generates native iOS App Intents and Android AppFunctions from Dart annotations, allowing Siri, Spotlight, Shortcuts and on-device agents to run Flutter app actions without bringing the app to the foreground.
+
+- Dart-to-Swift/Kotlin code generation
+- Headless execution verified on device
+- CI drift checks, test harnesses and built-bundle diagnostics
+- Published on [pub.dev](https://pub.dev/packages/os_intents)
+
+### [Enki — B2B construction platform](https://ilyas-nugmanov.vercel.app/en#enki)
+
+Developed Flutter mobile and web feature modules using Clean Architecture, BLoC/Cubit, AutoRoute, Dio/Retrofit, Firebase messaging, RBAC and review-driven delivery in a shared codebase.
+
+## Core stack
+
+- **Flutter:** Dart, Flutter, BLoC/Cubit, Riverpod, widget/unit/integration testing
+- **Architecture:** Clean Architecture, feature-first design, repository pattern, dependency injection
+- **Data & integrations:** REST, HTTP, WebSocket, Dio, Retrofit, Firebase, payments and POS systems
+- **Platforms & delivery:** iOS, Android, Flutter Web, Desktop, Swift integration, GitHub Actions, TestFlight
+
+## How I work
+
+I start with product constraints and failure states, design the smallest architecture that can survive production, test critical branches and carry the change through to a release. I am especially interested in Flutter products with real users, complex integrations and engineering ownership beyond UI implementation.
+
+## Contact
+
+Astana, Kazakhstan · English B2 · Russian native
+
+[nugmanovilyas228@gmail.com](mailto:nugmanovilyas228@gmail.com) · [Portfolio](https://ilyas-nugmanov.vercel.app/en) · [LinkedIn](https://www.linkedin.com/in/aneru/) · [Telegram](https://t.me/m1roxx)
