@@ -39,6 +39,14 @@ Developed Flutter mobile and web feature modules using Clean Architecture, BLoC/
 
 I start with product constraints and failure states, design the smallest architecture that can survive production, test critical branches and carry the change through to a release. I am especially interested in Flutter products with real users, complex integrations and engineering ownership beyond UI implementation.
 
+## Contribution activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m1roxx/m1roxx/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/m1roxx/m1roxx/output/github-contribution-grid-snake.svg">
+  <img alt="Animated snake moving through Ilyas Nugmanov's GitHub contribution graph" src="https://raw.githubusercontent.com/m1roxx/m1roxx/output/github-contribution-grid-snake.svg">
+</picture>
+
 ## Contact
 
 Astana, Kazakhstan · English B2 · Russian native
